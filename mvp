@@ -1,0 +1,69 @@
+BUILD YOUR PORTFOLIO PROJECT (WEEK 2)
+MVP COMPLETE.
+PROJECT: ONLINE MOVIE VOTING WEBSITE:
+Overview:
+This is a website where users get to create account and login with authentication, having 
+access to the website’s latest and trending movies where users can get to rate movies for 
+other movie users to watch, saving movie lovers from wasting time watching irrelevant new 
+release movies.
+PROGRESS:
+• I would rate the progress this week a 7/10.
+• Project assessment this from this week’s progress lies on the fact that our 
+website is now running on flask, a python development backend module to 
+authenticate logins and registrations.
+- Also, our user interface has been updated and made more beautiful and 
+attritive for users to always come by.
+- Movie categories also have been updated on the platform.
+- Our website is fully responsive and can be accessed by any device, laptops, 
+tabs, mobile phones and e.t.c.
+• PARTS COMPLETED includes, the login page, registration page and also the 
+main page, connection to backend technology.
+• PARTS NOT COMPLETED:
+- DATABASE, to fully connect to our database server.
+- MOVIES for users to rate and a voting bar showing the most 
+recommended movie in each category.
+CHALLENGES:
+• THE MOST CHALLENGING TECHHNOLOGY this second week has to do with 
+connecting with MySQL database, the database exist but my flask app is 
+struggling to connect with it despite the fact that have configured it to connect, 
+it’s showing an error I need to bind to my database, am struggling finding a way 
+around it though its causing a slow in pace to my project completion.
+• NON-TECHNICAL CHALLENGE:
+Well I wouldn’t know what to say at this time, maybe the fact that am doing the 
+full stack all alone and there is nobody am sharing minds of same project with. I 
+embrace the fact that am working alone despite its challenges, am learning 
+more by the day on this project.BUILD YOUR PORTFOLIO PROJECT (WEEK 2)
+MVP COMPLETE.
+PROJECT: ONLINE MOVIE VOTING WEBSITE:
+Overview:
+This is a website where users get to create account and login with authentication, having 
+access to the website’s latest and trending movies where users can get to rate movies for 
+other movie users to watch, saving movie lovers from wasting time watching irrelevant new 
+release movies.
+PROGRESS:
+• I would rate the progress this week a 7/10.
+• Project assessment this from this week’s progress lies on the fact that our 
+website is now running on flask, a python development backend module to 
+authenticate logins and registrations.
+- Also, our user interface has been updated and made more beautiful and 
+attritive for users to always come by.
+- Movie categories also have been updated on the platform.
+- Our website is fully responsive and can be accessed by any device, laptops, 
+tabs, mobile phones and e.t.c.
+• PARTS COMPLETED includes, the login page, registration page and also the 
+main page, connection to backend technology.
+• PARTS NOT COMPLETED:
+- DATABASE, to fully connect to our database server.
+- MOVIES for users to rate and a voting bar showing the most 
+recommended movie in each category.
+CHALLENGES:
+• THE MOST CHALLENGING TECHHNOLOGY this second week has to do with 
+connecting with MySQL database, the database exist but my flask app is 
+struggling to connect with it despite the fact that have configured it to connect, 
+it’s showing an error I need to bind to my database, am struggling finding a way 
+around it though its causing a slow in pace to my project completion.
+• NON-TECHNICAL CHALLENGE:
+Well I wouldn’t know what to say at this time, maybe the fact that am doing the 
+full stack all alone and there is nobody am sharing minds of same project with. I 
+embrace the fact that am working alone despite its challenges, am learning 
+more by the day on this project.
